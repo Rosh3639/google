@@ -1,0 +1,59 @@
+
+#all{
+    top: 0;
+    width: 1700px;
+    right: 0;
+    height: 190px;
+    text-align: right;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+#advance{
+    position: absolute;
+    top:5px;
+    right: 0;
+    width: 2500px;
+    text-align: right;
+    font-family: sans-serif;
+    margin-top: 15px;
+    padding-right: 50px;
+    
+}
+
+div1{
+    color: rgb(51, 159, 202);
+}
+div2{
+    color: rgb(216, 59, 59);
+}
+div3{
+    color:rgb(224, 224, 45);
+}
+div4{
+    color: rgb(51, 159, 202);
+}
+div5{
+    color: green;
+}
+div6{
+    color:rgb(216, 59, 59);
+}
+
+
+#center{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 95px;
+    text-align: center;
+}
+
+#cen{
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 10px;
+    outline: none;
+}
+#hindi{
+    font-size: small;
+    margin-left: 825px;
+    vertical-align: 1000px;
+}
